@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="GameLeaderboard.API/GameLeaderboard.API.csproj" />
+  <Project Path="GameLeaderboard.Application/GameLeaderboard.Application.csproj" />
+  <Project Path="GameLeaderboard.Domain/GameLeaderboard.Domain.csproj" />
+  <Project Path="GameLeaderboard.Infrastructure/GameLeaderboard.Infrastructure.csproj" />
+  <Project Path="GameLeaderboard.Tests/GameLeaderboard.Tests.csproj" />
+</Solution>
