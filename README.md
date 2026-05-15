@@ -16,7 +16,7 @@ Perfectly suited for mobile/hyper-casual games where anonymous authentication (v
 ## 🛠 Tech Stack
 
 - **Framework:** .NET 9/10, ASP.NET Core Web API
-- **Database:** PostgreSQL + Entity Framework Core (Code First)
+- **Database:** PostgreSQL + Entity Framework Core (Code First), Redis
 - **Validation:** FluentValidation
 - **Authentication:** JWT Bearer
 - **Documentation:** Scalar UI / OpenAPI
