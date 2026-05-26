@@ -26,7 +26,7 @@ Perfectly suited for mobile/hyper-casual games where anonymous authentication (v
 
 ### Prerequisites
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) installed and running.
-- .NET 9.0 SDK (or newer).
+- .NET 10.0 SDK (or newer).
 
 ### 1. Start the Database
 Open terminal in the root folder and run:
